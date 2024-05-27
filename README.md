@@ -1,29 +1,18 @@
-### Hi there 👋, my name is Sujit Rao
-#### Backend Developer | MERN Stack Enthusiast | Building Tomorrow's Web Today
-![Backend Developer | MERN Stack Enthusiast | Building Tomorrow's Web Today](https://media.sproutsocial.com/uploads/1c-LinkedIn-Banner-Personal-design-1.png)
-
-Web developer focused on the MERN stack (MongoDB, Express.js, React, Node.js), eager to build innovative full-stack applications and continuously improve my skills. Excited to connect and collaborate!
+# 💫 About Me:
+Web developer focused on the MERN stack (MongoDB, Express.js, React, Node.js), eager to build innovative full-stack applications and continuously improve my skills. Excited to connect and collaborate!<br><br>🌱 I’m currently mastering my skills in developemnt and focusing on Algorithms.<br>🤝 I’m looking for help with  advance backend development skills, emphasizing RESTful APIs.<br>📫 Reach me : sujitrao867@gmail.com<br><br>
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sujit-rao-6b3896242) 
 
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sujit-rao&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sujit-rao&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujit-rao&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=sujit-rao&icon=5&color=9)](https://visitcount.itsvg.in)
 
-
-
-Skills: Skilled in MERN stack (MongoDB, Express.js, React, Node.js), with proficiency in MySQL, C++, and Tailwind CSS, along with expertise in Git, npm, and Postman.
-
-- 🌱 I’m currently learning to master my skills in developemnt and focusing on Algorithms. 
-- 🤔 I’m looking for help with  advance backend development skills, emphasizing RESTful APIs. 
-- 📫 How to reach me: sujitrao867@gmail.com 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/sujit-rao)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/sujit-rao-6b3896242/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sujitrao.vercel.app/)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/sujit-rao)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/sujit-rao&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/sujit-rao)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/sujit-rao)  
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
